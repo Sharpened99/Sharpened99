@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharpened99 / Alex R.
 - 🎓 I'm studying Computer Science at Technische Universität Braunschweig
 - 👀 I’m interested in space travel, video games and computers
-- 🌱 I’m currently learning Python (FastAPI, PylonAPI, OpenCV, numpy), Linux, MIPS-Assembly
+- 🌱 I’m currently learning C (again :D) (ATmega microcontrollers)
 - 💞️ I’m looking to collaborate on ¯\\_(ツ)_/¯
 - 📫 How to reach me: Yell at your screen
 
